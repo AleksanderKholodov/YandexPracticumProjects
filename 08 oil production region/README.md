@@ -1,6 +1,6 @@
 # Определение наиболее выгодного региона нефтедобычи
 
-[HTML](https://github.com/AleksanderKholodov/YandexPracticumProjects/blob/main/08%20oil%20production%20region/oil%20production%20region%20.html)     [ipynb](https://github.com/AleksanderKholodov/YandexPracticumProjects/blob/main/08%20oil%20production%20region/oil%20production%20region%20.ipynb)
+[ipynb](https://github.com/AleksanderKholodov/YandexPracticumProjects/blob/main/08%20oil%20production%20region/oil%20production%20region%20.ipynb)
 
 ## Описание проекта
 
@@ -32,4 +32,4 @@
 
 Проведен расчет возможной прибыли и рисков
 
-выбран наиболее выгодный регион 
+Выбран наиболее выгодный регион 

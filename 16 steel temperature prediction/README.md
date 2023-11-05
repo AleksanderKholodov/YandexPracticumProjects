@@ -1,12 +1,10 @@
-# Определение наиболее выгодного региона нефтедобычи
+# Прогнозирование температуры стали во время плавки
 
-[ipynb](https://github.com/AleksanderKholodov/YandexPracticumProjects/blob/main/08%20oil%20production%20region/oil%20production%20region%20.ipynb)
+[ipynb](https://github.com/AleksanderKholodov/YandexPracticumProjects/tree/main/16%20steel%20temperature%20prediction))
 
 ## Описание проекта
 
-Необходимо подготовить модель машинного обучения, которая поможет определить регион, где добыча принесет наибольшую прибыль. 
-
-Также необходимо оценить возможную прибыль и риски.
+Построение модели машинного обучения для предсказания температуры стали во время плавки, которая будет использована для уменьшения потребления электроэнергии на металлургическом комбинате.
 
 
 ## Навыки и инструменты
@@ -14,21 +12,19 @@
 - **python**
 - **pandas**
 - **numpy**
-- **scipy**
 - **seaborn**
 
-- sklearn.linear_model.**Ridge**
+- sklearn.linear_model.**LinearRegression (Ridge, Lasso, ElasticNet)**
+- sklearn.ensemble.**RandomForestRegressor**
+- sklearn.tree.**DecisionTreeRegressor**
+- sklearn.pipeline.**Pipeline**
 - sklearn.model_selection.**train_test_split**
-- sklearn.metrics.**mean_squared_error**
-- sklearn.model_selection.**GridSearchCV**
+- sklearn.metrics.**mean_absolute_error**
+- sklearn.model_selection.**GridSearchCV (RandomizedSearchCV)**
+- catboost.**CatBoostRegressor**
 - **matplotlib**
-
 
 ## Общий вывод
 
-Было проведено обучение модели линейной регрессии с регуляризацией. Предсказаны запасы нефти в скважинах. 
-
-Проведен расчет возможной прибыли и рисков
-
-Выбран наиболее выгодный регион 
-
+Был проведен исслдеовательский анализ данных, предобработаны данные, сегнерированы новые признаки, обучено несколько моделей.
+По результатам тестирования выбрана одна для запуска в производство.

@@ -4,9 +4,9 @@
 <br>
 Представлены в виде тетрадок Jupiter Notebook (ipynb файлы) и README.md маркдаун-файлов.
 
-[Сертификат об окнчании курса EN](https://github.com/AleksanderKholodov/YandexPracticumProjects/blob/main/certificate_yandex_ds_en.pdf)
+[Диплом об окнчании курса EN](https://github.com/AleksanderKholodov/YandexPracticumProjects/blob/main/certificate_yandex_ds_en.pdf)
 <br>
-[Сертификат об окнчании курса RU](https://github.com/AleksanderKholodov/YandexPracticumProjects/blob/main/certificate_yandex_ds_ru.pdf)
+[Диплом об окнчании курса RU](https://github.com/AleksanderKholodov/YandexPracticumProjects/blob/main/certificate_yandex_ds_ru.pdf)
 
 | #  | **Наименование проекта**                                                                                                                                           | **Описание**                                                                                                                                                                                                       | **Стек**                                                                                                                 |
 |----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|

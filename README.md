@@ -1,12 +1,12 @@
 # Portfolio
 
-Репозиторий содержит проекты выполенные в процессе прохождения курса по DataScience в [Яндекс.Практикум](https://practicum.yandex.ru/)
+Репозиторий содержит проекты выполенные в процессе прохождения [курса](https://practicum.yandex.ru/data-scientist/) по DataScience в [Яндекс.Практикум](https://practicum.yandex.ru/)
 <br>
-  <a href="https://github.com/akylson/yandex-praktikum-data-science-projects/blob/main/yandex_ds_certificate_en.pdf"><b>Certificate of completion the course (English version)</b> :mortar_board: </a><br>
-    <a href="https://github.com/akylson/yandex-praktikum-data-science-projects/blob/main/yandex_ds_ru.pdf"><b>Certificate of completion the course (Russian version)</b> :mortar_board: </a>
-</p><br>
+Представлены в виде тетрадок Jupiter Notebook (ipynb файлы) и README.md маркдаун-файлов.
 
-Здесь собраны некоторые реализованные проекты
+[Сертификат об окнчании курса EN](https://github.com/AleksanderKholodov/YandexPracticumProjects/blob/main/certificate_yandex_ds_en.pdf)
+<br>
+[Сертификат об окнчании курса RU](https://github.com/AleksanderKholodov/YandexPracticumProjects/blob/main/certificate_yandex_ds_ru.pdf)
 
 | #  | **Наименование проекта**                                                                                                                                           | **Описание**                                                                                                                                                                                                       | **Стек**                                                                                                                 |
 |----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|

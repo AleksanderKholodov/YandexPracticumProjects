@@ -1,6 +1,6 @@
 # Прогнозирование температуры стали во время плавки
 
-[ipynb](https://github.com/AleksanderKholodov/YandexPracticumProjects/tree/main/16%20steel%20temperature%20prediction/16%20steel%20temperature%20prediction.ipynb)
+[ipynb](https://github.com/AleksanderKholodov/YandexPracticumProjects/tree/main/16_steel_temperature_prediction/16_steel_temperature_prediction.ipynb)
 
 ## Описание проекта
 

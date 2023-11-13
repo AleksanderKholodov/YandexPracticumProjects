@@ -1,6 +1,6 @@
 # Определение токсичности комментариев
 
-[ipynb](https://github.com/AleksanderKholodov/YandexPracticumProjects/blob/main/14.toxic_comments/14.toxic_comments.ipynb)
+[ipynb](https://github.com/AleksanderKholodov/YandexPracticumProjects/tree/main/14_toxic_comments_classification/14_toxic_comments_classification.ipynb)
 
 ## Описание проекта
 

@@ -1,4 +1,6 @@
 # Portfolio
+
+Репозиторий содержит проекты выполенные в процессе прохождения курса по DataScience в [Яндекс.Практикум](https://practicum.yandex.ru/)
 <br>
   <a href="https://github.com/akylson/yandex-praktikum-data-science-projects/blob/main/yandex_ds_certificate_en.pdf"><b>Certificate of completion the course (English version)</b> :mortar_board: </a><br>
     <a href="https://github.com/akylson/yandex-praktikum-data-science-projects/blob/main/yandex_ds_ru.pdf"><b>Certificate of completion the course (Russian version)</b> :mortar_board: </a>

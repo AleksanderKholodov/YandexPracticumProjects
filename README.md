@@ -1,6 +1,6 @@
 # Portfolio
 
-Репозиторий содержит проекты выполенные в процессе прохождения [курса](https://practicum.yandex.ru/data-scientist/) по DataScience в [Яндекс.Практикум](https://practicum.yandex.ru/)
+Репозиторий содержит некоторые проекты выполенные в процессе прохождения [курса](https://practicum.yandex.ru/data-scientist/) по DataScience в [Яндекс.Практикум](https://practicum.yandex.ru/)
 <br>
 Представлены в виде тетрадок Jupiter Notebook (ipynb файлы) и README.md маркдаун-файлов.
 

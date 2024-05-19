@@ -1,8 +1,10 @@
 # Portfolio
 
-Репозиторий содержит некоторые проекты выполенные в процессе прохождения [курса](https://practicum.yandex.ru/data-scientist/) по DataScience в [Яндекс.Практикум](https://practicum.yandex.ru/)
+Репозиторий содержит некоторые проекты, созданные в процессе обучения на [курсе](https://practicum.yandex.ru/data-scientist/) по DataScience от [Яндекс.Практикум](https://practicum.yandex.ru/)
 <br>
-Представлены в виде тетрадок Jupiter Notebook (ipynb файлы) и README.md маркдаун-файлов.
+В
+
+Проекты представлены в виде тетрадок Jupyter Notebook (файлы с расширением ipynb) и README.md — файлов с разметкой в формате Markdown.
 
 [Диплом об окнчании курса EN](https://github.com/AleksanderKholodov/YandexPracticumProjects/blob/main/certificate_yandex_ds_en.pdf)
 <br>
